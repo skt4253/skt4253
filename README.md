@@ -12,5 +12,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
