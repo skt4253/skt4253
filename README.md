@@ -3,6 +3,7 @@
 - 💬 Hello! I'm a college student studying.
 - 🌱 I'm majoring in Internet of Things.
 - 🤔 I Have Learned C, C++, JAVA, HTML/CSS, Python.
+<hr>
 <!--- 
 - 👯 I’m looking to collaborate on ...
 -  I’m looking for help with ...
@@ -10,3 +11,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253)](https://github.com/anuraghazra/github-readme-stats)
