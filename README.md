@@ -1,4 +1,4 @@
-### Hi there, I'm Sujin Yoo 👋
+### Hi there 👋
 
 - 💬 Hello! I graduated from university in February 2023.
 - 🌱 My major is the Internet of Things.
