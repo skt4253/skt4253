@@ -1,7 +1,7 @@
 ### Hi there, I'm Sujin Yoo 👋
 
-- 💬 Hello! I'm a college student studying.
-- 🌱 I'm majoring in Internet of Things.
+- 💬 Hello! I graduated from university in February 2023.
+- 🌱 My major is the Internet of Things.
 - 🤔 I Have Learned C, C++, JAVA, HTML/CSS/JavaScript, Nodejs, Linux and Python.
 - ⚡ Have a nice day!
 
