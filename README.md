@@ -24,9 +24,9 @@
 
 </div>
 
-
-<div align="center">
 <br/>
+<div align="center">
+
 ### 📊 Most Used Languages
 
 <p align="center">
@@ -35,9 +35,9 @@
 
 </div>
 
-
-<div align="center">
 <br/>
+<div align="center">
+
 ### ⭐ Sujin's GitHub Stats
 
 <p align="center">
