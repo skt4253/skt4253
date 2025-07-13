@@ -2,7 +2,7 @@
 I graduated from university in **February 2023**, majoring in the **Internet of Things (IoT)**.
 Have a nice day! 💬
 
----
+<br/>
 
 ## Main Tools 🛠️
 
@@ -17,8 +17,6 @@ Have a nice day! 💬
 
 <br/>
 
----
-
 ## Currently Developing Tools 🚀
 
 <div width="100%">
@@ -29,8 +27,6 @@ Have a nice day! 💬
 </div>
 
 <br/>
-
----
 
 ## Statistics 📊
 
