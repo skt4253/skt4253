@@ -2,7 +2,6 @@
 I graduated from university in **February 2023**, majoring in the **Internet of Things (IoT)**.
 Have a nice day! 💬
 
-<br/>
 
 ## Main Tools 🛠️
 
@@ -15,7 +14,6 @@ Have a nice day! 💬
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/jwt.png" alt="jwt" height="50px"/>
 </div>
 
-<br/>
 
 ## Currently Developing Tools 🚀
 
@@ -26,7 +24,6 @@ Have a nice day! 💬
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
 
-<br/>
 
 ## Statistics 📊
 
@@ -35,7 +32,6 @@ Have a nice day! 💬
   <img alt="solved.ac algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=skt4253" width="48%"/>
 </div>
 
-<br/>
 
 <div>
   <img height=200 align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
