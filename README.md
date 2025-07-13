@@ -24,7 +24,6 @@
 
 </div>
 
----
 
 ### 📊 Most Used Languages
 
@@ -32,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253&layout=compact&hide_title=true&card_width=400&langs_count=6&theme=radical&exclude_repo=your-excluded-repo" alt="Most Used Languages">
 </p>
 
----
+
 
 ### ⭐ Sujin's GitHub Stats
 
