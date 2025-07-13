@@ -25,19 +25,27 @@
 </div>
 
 
+<div align="center">
+
 ### 📊 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skt4253&layout=compact&hide_title=true&card_width=400&langs_count=6&theme=radical&exclude_repo=your-excluded-repo" alt="Most Used Languages">
 </p>
 
+</div>
 
+
+<div align="center">
 
 ### ⭐ Sujin's GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skt4253&show_icons=true&theme=radical&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=true" alt="Sujin's GitHub Stats">
 </p>
+
+</div>
+
 
 <div align="center">
 
