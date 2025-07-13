@@ -2,7 +2,7 @@
 <div align="center">
 
 ## 🛠️ Tech Stack <br/>
-
+<div align="center">
 ### 💻 Platforms & Languages 🧑‍💻
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
@@ -15,6 +15,7 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
+<div align="center">
 <br/>
 ### 🔧 Tools ⚙️
 
