@@ -1,15 +1,10 @@
 ## Hi there! 👋
-
----
-
 I graduated from university in **February 2023**, majoring in the **Internet of Things (IoT)**.
 Have a nice day! 💬
 
 ---
 
 ## Main Tools 🛠️
-
----
 
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
@@ -26,8 +21,6 @@ Have a nice day! 💬
 
 ## Currently Developing Tools 🚀
 
----
-
 <div width="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/docker.png" alt="docker" height="50px"/>
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/github-actions.png" alt="github actions" height="50px"/>
@@ -40,8 +33,6 @@ Have a nice day! 💬
 ---
 
 ## Statistics 📊
-
----
 
 <div>
   <img alt="github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=skt4253&show_icons=true&theme=holi" width="48%"/>
