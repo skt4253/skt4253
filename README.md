@@ -2,8 +2,6 @@
 
 <img src="./banner.svg" width="100%" alt="QA Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1200&color=FF3366&center=true&vCenter=true&width=520&lines=%EA%B2%8C%EC%9E%84+SDK+%EC%9D%B8%EC%A6%9D+QA+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4;TC+%EC%84%A4%EA%B3%84%EB%B6%80%ED%84%B0+%EA%B2%80%EC%A6%9D%EA%B9%8C%EC%A7%80+%F0%9F%94%8D;Playwright+%ED%85%8C%EC%8A%A4%ED%8A%B8+%EC%9E%90%EB%8F%99%ED%99%94+%ED%95%99%EC%8A%B5+%EC%A4%91+%F0%9F%A4%96;%EA%B2%8C%EC%9E%84+%EC%A2%8B%EC%95%84%ED%95%98%EB%8A%94+%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8+%EC%A0%9C%EC%9E%91%EC%9E%90+%F0%9F%8E%AE" alt="Typing SVG" />
-
 <br/>
 
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](BLOG_URL)
