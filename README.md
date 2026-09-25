@@ -126,6 +126,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 **Database**<br/>
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
@@ -137,19 +138,6 @@
 
 <br/>
 
-## 🕹️ Now Playing
-
-![원신](https://img.shields.io/badge/원신-4A6FA5?style=for-the-badge)
-![붕괴 스타레일](https://img.shields.io/badge/붕괴:%20스타레일-1A1A40?style=for-the-badge)
-![젠레스 존 제로](https://img.shields.io/badge/젠레스%20존%20제로-F2A900?style=for-the-badge)
-![명조](https://img.shields.io/badge/명조-2C3E50?style=for-the-badge)
-<br/>
-![림버스 컴퍼니](https://img.shields.io/badge/림버스%20컴퍼니-8B0000?style=for-the-badge)
-![리버스: 1999](https://img.shields.io/badge/리버스:%201999-B8860B?style=for-the-badge)
-![명일방주](https://img.shields.io/badge/명일방주-34495E?style=for-the-badge)
-![명일방주: 엔드필드](https://img.shields.io/badge/명일방주:%20엔드필드-E6B800?style=for-the-badge)
-
-<br/>
 
 ## 🔥 Stats
 
@@ -163,3 +151,5 @@
 </picture>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/skt4253/skt4253/main/footer.svg" width="100%" alt="footer" />
