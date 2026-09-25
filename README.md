@@ -4,6 +4,7 @@
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](LINKEDIN_URL)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](BLOG_URL)
 [![Mail](https://img.shields.io/badge/Mail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:MAIL_ADDRESS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=githubpages&logoColor=white)](PORTFOLIO_URL)
