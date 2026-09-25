@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🎮 Featured Project
+## 🎮 Featured Projects
 
 <table>
 <tr>
@@ -43,6 +43,28 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [🎁 Game-Coupon-Notifier](https://github.com/skt4253/Game-Coupon-Notifier)
+
+> 쿠폰 코드 찾아다니고 하나하나 복사해서 붙여넣기 귀찮은 사람들을 위한 스크립트
+
+원신 · 붕괴: 스타레일 · 젠레스 존 제로 · 명조의 **새 쿠폰 코드를 자동으로 수집하고,**  
+**코드가 미리 채워진 교환 링크를 디스코드로 보내줍니다.**
+
+- 🔎 공개 API · HoYoLAB · 명조 위키 등 여러 수집처에서 2시간마다 새 코드 수집
+- 🔗 클릭 한 번으로 코드가 채워진 교환 페이지 열기 (디스코드 링크 버튼)
+- 🧠 이미 보낸 코드는 기록해 두고 새 코드만 전송
+- 🇰🇷 보상 아이템을 공식 한국어 이름으로 변환해 표시
+- 🛡️ 외부 값은 코드 형식 검사 후 사용해 링크·멘션 주입 방지
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord%20Webhook-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </td>
 </tr>
