@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/sujin-yoo-500054353/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](BLOG_URL)
-[![Mail](https://img.shields.io/badge/Mail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sky420072@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=githubpages&logoColor=white)](PORTFOLIO_URL)
 ![Visitors](https://hits.sh/github.com/skt4253.svg?style=for-the-badge&label=VISITORS&color=FF3366)
 
