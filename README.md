@@ -1,27 +1,32 @@
-<!-- 헤더 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3366,100:6A1B9A&height=200&section=header&text=Sujin&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer&descAlignY=58&descSize=20" width="100%" />
+### Hi there 👋
 
-<div align="center">
-
-<!-- 타이핑 애니메이션 -->
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&pause=1000&color=FF3366&center=true&vCenter=true&width=500&lines=%EA%BC%BC%EA%BC%BC%ED%95%9C+QA+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4;%EC%9D%B8%EC%A6%9D+%ED%8C%8C%ED%8A%B8+%7C+TC+%EC%84%A4%EA%B3%84;%ED%85%8C%EC%8A%A4%ED%8A%B8+%EC%9E%90%EB%8F%99%ED%99%94+%ED%95%99%EC%8A%B5+%EC%A4%91+%F0%9F%A4%96" alt="Typing SVG" />
+**게임 SDK의 인증(회원가입·로그인)을 검증하는 QA 엔지니어**입니다.  
+TC 설계부터 검증까지 직접 하고, 요즘은 Playwright로 테스트 자동화를 익히고 있어요.  
+퇴근 후에는 좋아하는 게임을 더 편하게 즐기기 위한 외부 플러그인을 만듭니다. 🎮
 
 <br/>
 
-![Visitors](https://hits.sh/github.com/skt4253.svg?style=for-the-badge&label=VISITORS&color=FF3366)
+### 🎮 Featured Project
 
-</div>
+#### [📅 Daily-Game-Check-in](https://github.com/skt4253/Daily-Game-Check-in)
 
-## 👋 About Me
+> 컴퓨터와 출석체크 앱조차 켜기 귀찮은 사람들을 위한 스크립트
 
-- 🔍 **SDK QA팀 · 인증 파트**에서 회원가입·로그인 기능을 검증하고 있어요
-- 📝 테스트 케이스(TC) 설계부터 검증까지 직접 수행해요
-- 🤖 요즘은 Playwright 기반 테스트 자동화를 공부하고 있어요
-- 🎮 게임을 좋아해서, 취미로 게임을 더 편하게 즐길 수 있는 외부 플러그인을 만들곤 해요
+원신 · 붕괴: 스타레일 · 젠레스 존 제로(HoYoLAB)와 명일방주: 엔드필드(SKPORT)의 출석체크를  
+**매일 새벽 자동으로 실행하고, 결과를 텔레그램으로 알려줍니다.**
+
+- ⏰ GitHub Actions 스케줄로 서버 없이 매일 자동 실행
+- 🔄 엔드필드 토큰이 만료되면 자동으로 갱신한 뒤 다시 시도
+- 🧾 응답 코드별로 결과를 구분 (출석 완료 / 이미 출석 / 쿠키 만료 등)
+- 📱 텔레그램 봇으로 게임별 결과를 한 번에 전송
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 
 <br/>
 
-## 🗓️ Timeline
+### 🗓️ Timeline
 
 | 기간 | 소속 | 내용 |
 |:---:|:---|:---|
@@ -33,72 +38,64 @@
 
 <br/>
 
-<div align="center">
+### 🧪 QA
 
-## 🧪 QA Stack
+**Issue & Docs**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-<br/>
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+**API & Network**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-00A4EF?style=flat-square&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 
-## 🛠️ Tech Stack
+**Mobile**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio%20·%20adb-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![3uTools](https://img.shields.io/badge/3uTools-1E88E5?style=flat-square&logoColor=white)
 
-### 💻 Languages & Frameworks
+**Etc**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NAVER WORKS](https://img.shields.io/badge/NAVER%20WORKS-03C75A?style=flat-square&logo=naver&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🛠️ Dev
 
-### 🔧 Tools
-
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <br/>
 
-## 📈 Currently Learning
+### 🕹️ Now Playing
 
-![Playwright](https://img.shields.io/badge/Playwright-자동화%20스크립트%20작성-2EAD33?style=flat-square)
-![Mobile](https://img.shields.io/badge/Mobile-Android%20%2F%20iOS%20테스트%20자동화-3DDC84?style=flat-square)
+![원신](https://img.shields.io/badge/원신-4A6FA5?style=flat-square)
+![붕괴 스타레일](https://img.shields.io/badge/붕괴:%20스타레일-1A1A40?style=flat-square)
+![젠레스 존 제로](https://img.shields.io/badge/젠레스%20존%20제로-F2A900?style=flat-square)
+![명조](https://img.shields.io/badge/명조-2C3E50?style=flat-square)
+<br/>
+![림버스 컴퍼니](https://img.shields.io/badge/림버스%20컴퍼니-8B0000?style=flat-square)
+![리버스: 1999](https://img.shields.io/badge/리버스:%201999-B8860B?style=flat-square)
+![명일방주](https://img.shields.io/badge/명일방주-34495E?style=flat-square)
+![명일방주: 엔드필드](https://img.shields.io/badge/명일방주:%20엔드필드-E6B800?style=flat-square)
 
 <br/>
 
-## 🔥 GitHub Streak
+### 🌱 Contributions
 
-<img src="https://streak-stats.demolab.com?user=skt4253&theme=radical&hide_border=true" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions" />
+</picture>
 
-<br/><br/>
+<br/>
 
-## 📊 Activity
+### 📫 Contact
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skt4253&theme=radical" width="100%" alt="Profile Details" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skt4253&theme=radical" height="170" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=skt4253&theme=radical&utcOffset=9" height="170" alt="Productive Time" />
-
-<br/><br/>
-
-## 🌐 Contact & Portfolio
-
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com)
-[![Mail](https://img.shields.io/badge/Mail-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio-url.com)
-
-</div>
-
-<!-- 푸터 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A1B9A,100:FF3366&height=120&section=footer" width="100%" />
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](BLOG_URL)
+[![Mail](https://img.shields.io/badge/Mail-D44638?style=flat-square&logo=gmail&logoColor=white)](mailto:MAIL_ADDRESS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A1B9A?style=flat-square&logo=githubpages&logoColor=white)](PORTFOLIO_URL)
