@@ -33,16 +33,16 @@
 > 컴퓨터와 출석체크 앱조차 켜기 귀찮은 사람들을 위한 스크립트
 
 원신 · 붕괴: 스타레일 · 젠레스 존 제로(HoYoLAB)와 명일방주: 엔드필드(SKPORT)의 출석체크를  
-**매일 새벽 자동으로 실행하고, 결과를 텔레그램으로 알려줍니다.**
+**매일 새벽 자동으로 실행하고, 결과를 디스코드로 알려줍니다.**
 
 - ⏰ GitHub Actions 스케줄로 서버 없이 매일 자동 실행
 - 🔄 엔드필드 토큰이 만료되면 자동으로 갱신한 뒤 다시 시도
 - 🧾 응답 코드별로 결과를 구분 (출석 완료 / 이미 출석 / 쿠키 만료 등)
-- 📱 텔레그램 봇으로 게임별 결과를 한 번에 전송
+- 💬 디스코드 봇으로 게임별 결과를 한 번에 전송
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 </td>
 </tr>
